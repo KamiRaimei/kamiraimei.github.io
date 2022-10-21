@@ -89,7 +89,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: splash
+      type: grid
     values:
       layout: single
       author_profile: true
